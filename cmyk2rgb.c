@@ -21,7 +21,7 @@ int main(void){
                     float green = 255*(1-magenta/100)*(1-black/100);
                     float blue = 255*(1-yellow/100)*(1-black/100);
 
-                    printf(" %.0f\n %.0f\n %.0f\n", red, green, blue);
+                    printf("%.0f\n%.0f\n%.0f\n", red, green, blue);
                     exit(0);}
                 printf("Zly vstup");
                 exit(0);}
