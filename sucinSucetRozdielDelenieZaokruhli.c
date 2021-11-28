@@ -5,7 +5,6 @@ int main(void){
     
     printf ("Zadaj prve cislo:");
     scanf ("%i", &cislo1);
-
     printf ("Zadaj druhe cislo:");
     scanf ("%i", &cislo2);
 
